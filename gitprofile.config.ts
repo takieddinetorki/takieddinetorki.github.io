@@ -100,7 +100,7 @@ const CONFIG = {
     {
       company: 'PUBDEC',
       position: 'IT Consultant',
-      from: 'Dec 2023',
+      from: 'Nov 2023',
       to: 'Present',
       companyLink: 'https://www.pubdec.com/',
     },
